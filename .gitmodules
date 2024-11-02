@@ -1,6 +1,7 @@
 [submodule "flutter"]
 	path = flutter
 	url = https://github.com/majusss/hackheroes-flutter
+	branch=master
 [submodule "nextjs"]
 	path = nextjs
 	url = https://github.com/rvyk/hackheroes-nextjs
